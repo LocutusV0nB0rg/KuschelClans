@@ -1,0 +1,8 @@
+name: KuschelClans
+author: Kuschel_Swein
+version: 1.0
+main: de.kuschel_swein.main.Main
+api-version: 1.15
+
+commands:
+  clan: 
